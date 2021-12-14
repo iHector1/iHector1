@@ -1,4 +1,4 @@
-### Hello < Developers/>, I'm [Hector][website]<img src="https://giphy.com/embed/11lbypruhFv0ze" width="100" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+### Hello < Developers/>, I'm [Hector][website]
 
 ## <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
