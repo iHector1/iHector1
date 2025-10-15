@@ -26,23 +26,20 @@ Currently working on enterprise automation projects, integrating systems like Sh
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iHector1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iHector1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iHector1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iHector1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iHector1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iHector1&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=iHector1&theme=discord&no-frame=true&no-bg=true&column=7)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iHector1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
+</p>
 
 ## 🎯 Beyond Code
 
