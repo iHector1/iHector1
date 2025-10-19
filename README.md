@@ -17,7 +17,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 ---
+
 ### 🧠 Core Expertise
 - 🧩 Backend Architecture & API Design  
 - 🐧 DevOps & Infra (Docker, Linux, GitHub Actions)  
