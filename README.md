@@ -1,5 +1,3 @@
-<h1 align="center">👋 Hey there, I'm Héctor González</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Héctor%20González&fontSize=38&animation=fadeIn" alt="header"/>
 </p>
@@ -11,8 +9,14 @@
 <p align="center">
   <b>Software Engineer</b> · Backend & Web Dev · Automation Enthusiast
 </p>
-
----
+<p align="center">
+  <a href="https://hector-gonzalez.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ihector/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ### 🚀 About Me
 I build scalable backends, automate workflows, and set up robust CI/CD pipelines.  
@@ -52,36 +56,10 @@ Currently integrating **Shopify**, internal APIs, and modern DevOps on **Linux +
 </p>
 
 ---
-
-### ⭐ Star History
-<!-- Reemplaza los repos por los más relevantes tuyos. Puedes poner varios separados por coma -->
-<p align="center">
-  <a href="https://star-history.com/#iHector1/iHector1&Date" target="_blank">
-    <img src="https://api.star-history.com/svg?repos=iHector1/iHector1&type=Date" width="95%" alt="Star History Chart"/>
-  </a>
-</p>
-
----
-
 ### 🌍 Beyond Code
 - 🥊 Boxing · 🏀 Basketball  
 - 🔧 Tinkering with new tech  
 - 📚 Lifelong learning  
-
----
-
-### 🌐 Connect
-
-<p align="center">
-  <a href="https://hector-gonzalez.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ihector/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <!-- Opcionales: Snake y 3D contrib (se generan con Actions). Mantenlos al final para no recargar. -->
 
