@@ -1,7 +1,7 @@
 name: 3D Profile
 on:
   schedule:
-    - cron: "0 7 * * *"   # diario 07:00 UTC
+    - cron: "0 7 * * *"     # diario 07:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -12,13 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
           USERNAME: iHector1
-      - name: Commit
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Update 3D profile" || echo "No changes"
-          git push
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
