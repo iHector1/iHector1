@@ -17,13 +17,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-### 🚀 About Me
-I build scalable backends, automate workflows, and set up robust CI/CD pipelines.  
-Currently integrating **Shopify**, internal APIs, and modern DevOps on **Linux + Docker**.
-
----
-
 ### 🧠 Core Expertise
 - 🧩 Backend Architecture & API Design  
 - 🐧 DevOps & Infra (Docker, Linux, GitHub Actions)  
@@ -55,11 +48,7 @@ Currently integrating **Shopify**, internal APIs, and modern DevOps on **Linux +
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iHector1&theme=tokyo-night&hide_border=true" width="95%" alt="activity-graph"/>
 </p>
 
----
-### 🌍 Beyond Code
-- 🥊 Boxing · 🏀 Basketball  
-- 🔧 Tinkering with new tech  
-- 📚 Lifelong learning  
+
 
 <!-- Opcionales: Snake y 3D contrib (se generan con Actions). Mantenlos al final para no recargar. -->
 
@@ -67,8 +56,8 @@ Currently integrating **Shopify**, internal APIs, and modern DevOps on **Linux +
 <p align="center">
   <img src="https://raw.githubusercontent.com/iHector1/iHector1/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
+<!--
 ### 🧊 3D Contribution
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="92%" alt="3d profile"/>
-</p>
+</p>-->
