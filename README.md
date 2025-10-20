@@ -44,7 +44,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iHector1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
-  <img src="https://streak-stats.demolab.com?user=iHector1&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=iHector1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" />
 </p>
 
 <!-- Activity Graph -->
