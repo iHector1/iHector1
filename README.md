@@ -47,21 +47,3 @@
   <img src="https://streak-stats.demolab.com?user=iHector1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iHector1&theme=tokyo-night&hide_border=true" width="95%" alt="activity-graph"/>
-</p>
-
-
-
-<!-- Opcionales: Snake y 3D contrib (se generan con Actions). Mantenlos al final para no recargar. -->
-
-### 🐍 Contributions Snake (auto-update)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iHector1/iHector1/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-<!--
-### 🧊 3D Contribution
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="92%" alt="3d profile"/>
-</p>-->
