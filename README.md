@@ -9,6 +9,7 @@
 <p align="center">
   <b>Software Engineer</b> · Backend & Web Dev · Automation Enthusiast
 </p>
+
 <p align="center">
   <a href="https://hector-gonzalez.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -16,20 +17,24 @@
   <a href="https://www.linkedin.com/in/ihector/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=iHector1&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-
 ### 🧠 Core Expertise
-- 🧩 Backend Architecture & API Design  
-- 🐧 DevOps & Infra (Docker, Linux, GitHub Actions)  
-- ⚙️ Automation (schedulers, integrations, messaging)  
-- 🌐 Full-Stack (Laravel + Angular)  
+
+| Area | Details |
+|------|---------|
+| 🧩 Backend | Architecture, REST API Design, Clean Code |
+| 🐧 DevOps & Infra | Docker, Linux, GitHub Actions |
+| ⚙️ Automation | Schedulers, Integrations, Messaging |
+| 🌐 Full-Stack | Laravel + Angular |
 
 ---
 
 ### 💻 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,java,python" height="48" />
   <br/>
@@ -47,3 +52,24 @@
   <img src="https://streak-stats.demolab.com?user=iHector1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iHector1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iHector1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iHector1&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
