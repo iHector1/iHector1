@@ -100,8 +100,6 @@ Data processing pipelines generating structured PDF reports using Python + LaTeX
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iHector1&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=80&section=footer"/>
 </p>
