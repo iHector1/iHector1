@@ -92,9 +92,6 @@ Data processing pipelines generating structured PDF reports using Python + LaTeX
   <img src="https://streak-stats.demolab.com?user=iHector1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iHector1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iHector1&theme=tokyo-night&hide_border=true" />
